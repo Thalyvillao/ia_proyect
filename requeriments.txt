@@ -1,0 +1,6 @@
+tensorflow
+Image
+pandas
+Workbook
+openpyxl
+webcolors
